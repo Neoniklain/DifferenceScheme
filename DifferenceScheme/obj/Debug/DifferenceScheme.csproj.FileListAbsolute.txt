@@ -1,0 +1,17 @@
+E:\Programms\Visual_Studio_2017\DifferenceScheme\DifferenceScheme\bin\Debug\DifferenceScheme.exe.config
+E:\Programms\Visual_Studio_2017\DifferenceScheme\DifferenceScheme\bin\Debug\DifferenceScheme.exe
+E:\Programms\Visual_Studio_2017\DifferenceScheme\DifferenceScheme\bin\Debug\DifferenceScheme.pdb
+E:\Programms\Visual_Studio_2017\DifferenceScheme\DifferenceScheme\obj\Debug\DifferenceScheme.csprojResolveAssemblyReference.cache
+E:\Programms\Visual_Studio_2017\DifferenceScheme\DifferenceScheme\obj\Debug\DifferenceScheme.Properties.Resources.resources
+E:\Programms\Visual_Studio_2017\DifferenceScheme\DifferenceScheme\obj\Debug\DifferenceScheme.csproj.GenerateResource.Cache
+E:\Programms\Visual_Studio_2017\DifferenceScheme\DifferenceScheme\obj\Debug\DifferenceScheme.exe
+E:\Programms\Visual_Studio_2017\DifferenceScheme\DifferenceScheme\obj\Debug\DifferenceScheme.pdb
+E:\Programms\Visual_Studio_2017\DifferenceScheme\DifferenceScheme\bin\Debug\Tao.FreeGlut.dll
+E:\Programms\Visual_Studio_2017\DifferenceScheme\DifferenceScheme\bin\Debug\Tao.OpenGl.dll
+E:\Programms\Visual_Studio_2017\DifferenceScheme\DifferenceScheme\bin\Debug\Tao.Platform.Windows.dll
+E:\Programms\Visual_Studio_2017\DifferenceScheme\DifferenceScheme\bin\Debug\Tao.FreeGlut.xml
+E:\Programms\Visual_Studio_2017\DifferenceScheme\DifferenceScheme\bin\Debug\Tao.OpenGl.xml
+E:\Programms\Visual_Studio_2017\DifferenceScheme\DifferenceScheme\bin\Debug\Tao.Platform.Windows.xml
+E:\Programms\Visual_Studio_2017\DifferenceScheme\DifferenceScheme\obj\Debug\DifferenceScheme.Begin.resources
+E:\Programms\Visual_Studio_2017\DifferenceScheme\DifferenceScheme\bin\Debug\Tao.FreeGlut.dll.config
+E:\Programms\Visual_Studio_2017\DifferenceScheme\DifferenceScheme\bin\Debug\NCalc.dll
