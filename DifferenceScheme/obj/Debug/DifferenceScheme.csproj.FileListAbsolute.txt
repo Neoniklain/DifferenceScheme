@@ -15,3 +15,20 @@ E:\Programms\Visual_Studio_2017\DifferenceScheme\DifferenceScheme\bin\Debug\Tao.
 E:\Programms\Visual_Studio_2017\DifferenceScheme\DifferenceScheme\obj\Debug\DifferenceScheme.Begin.resources
 E:\Programms\Visual_Studio_2017\DifferenceScheme\DifferenceScheme\bin\Debug\Tao.FreeGlut.dll.config
 E:\Programms\Visual_Studio_2017\DifferenceScheme\DifferenceScheme\bin\Debug\NCalc.dll
+E:\Иходники программ\Visual Studio 2017\Дифиринциальная схема\DifferenceScheme\DifferenceScheme\bin\Debug\DifferenceScheme.exe.config
+E:\Иходники программ\Visual Studio 2017\Дифиринциальная схема\DifferenceScheme\DifferenceScheme\bin\Debug\DifferenceScheme.exe
+E:\Иходники программ\Visual Studio 2017\Дифиринциальная схема\DifferenceScheme\DifferenceScheme\bin\Debug\DifferenceScheme.pdb
+E:\Иходники программ\Visual Studio 2017\Дифиринциальная схема\DifferenceScheme\DifferenceScheme\bin\Debug\NCalc.dll
+E:\Иходники программ\Visual Studio 2017\Дифиринциальная схема\DifferenceScheme\DifferenceScheme\bin\Debug\Tao.FreeGlut.dll
+E:\Иходники программ\Visual Studio 2017\Дифиринциальная схема\DifferenceScheme\DifferenceScheme\bin\Debug\Tao.OpenGl.dll
+E:\Иходники программ\Visual Studio 2017\Дифиринциальная схема\DifferenceScheme\DifferenceScheme\bin\Debug\Tao.Platform.Windows.dll
+E:\Иходники программ\Visual Studio 2017\Дифиринциальная схема\DifferenceScheme\DifferenceScheme\bin\Debug\Tao.FreeGlut.xml
+E:\Иходники программ\Visual Studio 2017\Дифиринциальная схема\DifferenceScheme\DifferenceScheme\bin\Debug\Tao.FreeGlut.dll.config
+E:\Иходники программ\Visual Studio 2017\Дифиринциальная схема\DifferenceScheme\DifferenceScheme\bin\Debug\Tao.OpenGl.xml
+E:\Иходники программ\Visual Studio 2017\Дифиринциальная схема\DifferenceScheme\DifferenceScheme\bin\Debug\Tao.Platform.Windows.xml
+E:\Иходники программ\Visual Studio 2017\Дифиринциальная схема\DifferenceScheme\DifferenceScheme\obj\Debug\DifferenceScheme.csprojResolveAssemblyReference.cache
+E:\Иходники программ\Visual Studio 2017\Дифиринциальная схема\DifferenceScheme\DifferenceScheme\obj\Debug\DifferenceScheme.Begin.resources
+E:\Иходники программ\Visual Studio 2017\Дифиринциальная схема\DifferenceScheme\DifferenceScheme\obj\Debug\DifferenceScheme.Properties.Resources.resources
+E:\Иходники программ\Visual Studio 2017\Дифиринциальная схема\DifferenceScheme\DifferenceScheme\obj\Debug\DifferenceScheme.csproj.GenerateResource.Cache
+E:\Иходники программ\Visual Studio 2017\Дифиринциальная схема\DifferenceScheme\DifferenceScheme\obj\Debug\DifferenceScheme.exe
+E:\Иходники программ\Visual Studio 2017\Дифиринциальная схема\DifferenceScheme\DifferenceScheme\obj\Debug\DifferenceScheme.pdb
